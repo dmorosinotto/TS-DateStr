@@ -1,0 +1,35 @@
+{
+  "name": "ts-datestr",
+  "version": "1.0.0",
+  "description": "Strongly Typed DateStr",
+  "main": "DateStr.ts",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/moment": "^2.13.0",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  },
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmorosinotto/TS-DateStr.git"
+  },
+  "keywords": [
+    "TS",
+    "DateStr",
+    "Typescipt",
+    "Date",
+    "Nominal",
+    "Typing"
+  ],
+  "author": "Daniele Morosinotto (d.morosinotto@icloud.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmorosinotto/TS-DateStr/issues"
+  },
+  "homepage": "https://github.com/dmorosinotto/TS-DateStr#readme"
+}
